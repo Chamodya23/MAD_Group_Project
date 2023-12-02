@@ -48,7 +48,7 @@ Many students often hesitate to request things they need for their education, ma
 
  **Chamodya Sewwandi** ([Chamodya23](https://github.com/Chamodya23))
  
- • Frontend Developer / Backend Developer
+ • UI/UX Designer / Frontend Developer
 
  **Nedmi Abrew** ([nedmi16](https://github.com/nedmi16))
  
@@ -68,7 +68,7 @@ Many students often hesitate to request things they need for their education, ma
 
  **Thenuka Wijesundara** ([ThenukaW](https://github.com/ThenukaW))
  
-  • UI/UX Designer / Frontend Developer
+  • UI/UX Designer / Backend Developer
   
 ---
 
